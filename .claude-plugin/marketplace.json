@@ -1,0 +1,8 @@
+{
+  "name": "muse-security-skills",
+  "owner": { "name": "MUSE-CODE-SPACE" },
+  "description": "Agent skills by MUSE-CODE-SPACE",
+  "plugins": [
+    { "name": "security-basics-check", "source": ".", "description": "Read-only basic security check for your own repo, built from public incidents and standards." }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "security-basics-check",
+  "version": "1.0.0",
+  "description": "Read-only basic security check for your own repo, built from public incidents and standards, with a sourced checklist.",
+  "author": { "name": "MUSE-CODE-SPACE" },
+  "license": "MIT",
+  "repository": "https://github.com/MUSE-CODE-SPACE/security-basics-check"
+}
