@@ -4,6 +4,8 @@
 
 [English](#english)
 
+영상: [소개](https://youtu.be/Gr3UEhs0qEM) · [실측 테스트](https://youtu.be/80C_erFgFGY)
+
 ## 어떻게 동작하나
 
 1. **자동 검사:** `scan.py`가 시크릿, SQL 조합, 약한 해시, 업로드, Supabase RLS, npm, GitHub Actions, AI 에이전트 설정을 찾습니다. Python 표준 라이브러리만 씁니다.
